@@ -16,4 +16,6 @@ Bem-vindo ao repositório de projetos Python com IA! Aqui, você encontrará uma
 
 - [Rede Neural PyTorch](Rede%20Neural%20PyTorch/neural_network.ipynb): Este notebook contém exemplo de Machine Learning utilizando o framework PyTorch.
 
+- [ML car sale](ML%20car%20sale/ML_validation.ipynb): Este notebook contém exemplo de Machine Learning explorando diferentes estratégias de validação cruzada.
+
 
