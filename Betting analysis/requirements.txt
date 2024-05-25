@@ -1,0 +1,8 @@
+Faker==25.2.0
+python-dateutil==2.9.0.post0
+six==1.16.0
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.0
+matplotlib-inline==0.1.7
+seaborn==0.13.2
